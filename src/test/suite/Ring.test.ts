@@ -1,5 +1,6 @@
-import * as assert from 'assert';
 import { Ring } from '../../Ring';
+import { describe, it } from 'mocha';
+import * as assert from 'assert';
 
 describe('Ring', () => {
 	describe('#constructor', () => {
