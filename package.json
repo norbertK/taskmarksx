@@ -17,6 +17,14 @@
         "command": "taskmarksx.helloWorld",
         "title": "Hello World"
       }
+    ],
+    "breakpoints": [
+      {
+        "language": "javascript"
+      },
+      {
+        "language": "javascriptreact"
+      }
     ]
   },
   "scripts": {
